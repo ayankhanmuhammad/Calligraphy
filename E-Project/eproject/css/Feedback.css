@@ -1,0 +1,73 @@
+body{
+    background-image: url(../Images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Navbar */
+.navbar{
+    background-color: #1d6c8f;
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
+.navbar-collapse{
+    margin-left: 23%;
+}
+.navbar-collapse .nav-item{
+    padding: 1.5%;
+}
+.navbar-collapse .nav-item .nav-link{
+    color: white;
+}
+
+/* Feedback */
+.mainheading{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2%;
+}
+.row{
+    width: 100%;
+    margin-top: 5%;
+}
+.col-md-12{
+    width: 60%;
+    margin-left: 20%;
+}
+.div2{
+    margin-left: 20%;
+}
+.form-label{
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+}
+.btn{
+    color: #1d6c8f;
+    background-color: #ffffff;
+    border: 1px solid #1d6c8f;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2%;
+}
+.btn:hover{
+    color: white;
+    background-color: #1d6c8f;
+    border: 1px solid #1d6c8f;
+}
+
+/* Footer */
+.text-center{
+    width: 100%;
+    background-color: black;
+    margin-top: 10%;
+}
+.mainlogo{
+    width: 75%;
+}

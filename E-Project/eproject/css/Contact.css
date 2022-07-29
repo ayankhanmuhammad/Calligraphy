@@ -1,0 +1,59 @@
+body{
+    background-image: url(../Images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Navbar */
+.navbar{
+    background-color: #1d6c8f;
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
+.navbar-collapse{
+    margin-left: 23%;
+}
+.navbar-collapse .nav-item{
+    padding: 1.5%;
+}
+.navbar-collapse .nav-item .nav-link{
+    color: white;
+}
+
+/* Contact Us */
+.heading h1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2%;
+    text-align: center;
+}
+.row{
+    width: 80%;
+    margin-top: 5%;
+}
+.form-label{
+    font-weight: bold;
+}
+.btn{
+    width: 50%;
+    color: #1d6c8f;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid #1d6c8f;
+    margin-top: 3%;
+}
+.btn:hover{
+    color: white;
+    background-color: #1d6c8f;
+    border: 1px solid #1d6c8f;
+}
+/* Footer */
+.text-center{
+    background-color: black;
+    margin-top: 10%;
+}
+.mainlogo{
+    width: 75%;
+}
